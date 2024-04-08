@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: upcommerce
-          image: uonyeka/upcommerce:v3
+          image: shirivaramini/upcommerce:v3
           ports:
             - containerPort: 5000
           imagePullPolicy: Always
